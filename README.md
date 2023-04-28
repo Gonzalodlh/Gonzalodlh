@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hola! Soy Gonzalo 👋
+## Front End developer
+Actualmente realizando **Bootcamp FullStack** en Undefined Academy
+Tambien realizando la carrera de *Tecnicatura en Seguridad Informatica*
 
-<!--
-**Gonzalodlh/Gonzalodlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Ejemplo de Tabla**
 
-Here are some ideas to get you started:
+| Comandos | Descripcion           |
+| ---------| -----------           |
+| ls       | List Directory        |
+| cd       | cambiar directorio    |
+| yarn     | Instalar dependencias |
+| gst      | Alias de git Status   |
+| clear    | Limpiar la terminal   |
+| alias    | Listar los alias      |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **Alias**
+
+| Alias              |  Descripcion                          |
+| -----------------  | ----------------------               |
+| st= "git status"   | Muestra el estado local              | 
+| add= "git add"     | Agrega al stage los cambios actuales |
+| cmm= "git commit"  | Crea un Commit con un mensaje        |
+
